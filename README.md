@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MalikTayyabTanveer
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning python, data science and ui/ux.
+- 🌱 I’m currently learning python, data science.
 - 💞️ I’m looking to collaborate on Machine learning, Deep learning and AI.
 - 📫 You can contact me on adamjosaph@gmail.com
 
